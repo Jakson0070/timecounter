@@ -1,0 +1,16 @@
+.main {
+  text-align: center;
+  padding: 20px;
+  color: white;
+}
+body {
+  background-color: darkslateblue;
+}
+
+button {
+  background-color: aqua;
+  width: 120px;
+  height: 50px;
+  border-radius: 5px;
+  font-size: 25px;
+}
